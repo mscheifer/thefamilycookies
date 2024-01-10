@@ -1,18 +1,18 @@
 # Ingredients
-5 egg yolks
-1 teaspoon aniseed
-2 teaspoons baking powder
-2 tablspoons milk
-2 cups all purpose flour
-1 teaspoon crisco shortening
-2 cups white sugar
-1/8 teaspoon salt
+- 5 egg yolks
+- 1 teaspoon aniseed
+- 2 teaspoons baking powder
+- 2 tablspoons milk
+- 2 cups all purpose flour
+- 1 teaspoon crisco shortening
+- 2 cups white sugar
+- 1/8 teaspoon salt
 
 # Other Needs
-Extra flour
-Extra crisco
-Patterned rolling pin
-Wax paper
+- Extra flour
+- Extra crisco
+- Patterned rolling pin
+- Wax paper
 
 # Instructions
 In a bowl, mix flour and baking powder.
