@@ -3,3 +3,5 @@
 [Springerlie](springerlie.md)
 
 [Lebckuchen](lebckuchen.md)
+
+[Cinnamon Stars](cinnamon_stars.md)
