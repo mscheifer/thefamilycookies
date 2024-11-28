@@ -16,7 +16,7 @@
 - Crisco
 - Rolling pin
 # Instructions
-Blanch almonds then grind using a food processor. Store in regrigerator until later.
+Blanch almonds then grind using a food processor. Store in refrigerator until later.
 > Blanching can be done by boiling the almonds for 1 minute (not any longer!) and then shooting the nut out of the skin by squeezing your fingers
 
 In a large stove pot combine brown sugar, honey, and water together and bring to a boil Let simmer for five minutes, stirring occasionally. Let cooked mixture cool on stove. Once cooled, combine with flour baking soda, and spices, using an electric mixer. In a separate bowl, beat eggs and add to mixture. Turn the mixer off and fold in the almonds and fruit by hand. Work dough into a rough loaf. Store loaf in bowl in refrigerator for 2-3 days.
