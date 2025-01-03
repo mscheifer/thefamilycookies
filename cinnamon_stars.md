@@ -24,7 +24,7 @@ In a separate small bowl, mix 1/2 a cup of sugar and 1/2 a cup of flour, and rep
 
 Using your fingers, pat down mixture until it is about 1/4 inch thick. Dip star cookie cutter into the flour/sugar bowl and cut out cookies.
 
-Covver a baking sheet in parchment paper and generously grease the parchment paper. Place star cookies on the greased parchment paper.
+Cover a baking sheet in parchment paper and generously grease the parchment paper. Place star cookies on the greased parchment paper.
 
 Preheat oven to 300° F. Place filled cookie sheets in the refrigerator for 15 minutes to thoroughly chill cookies. Bake at 300° F for 20 minutes. Use a stiff spatula to remove cookies. They may be light brown on the bottoms and edges.
 
