@@ -10,9 +10,11 @@
 - Crisco
 
 # Instructions
-Place chocolate in freezer, when cold, break off pieces of chocolate and grate using a food processor or grinder. Store grated chocolate in the refrigerator until ready to use.
+Place chocolate in freezer, when cold, break off pieces of chocolate and grate using a food processor or grinder. Cutting the squares with a knife first can make grinding easier. Store grated chocolate in the refrigerator until ready to use.
 
-Using an electric mixer, beat egg whites until you achieve stiff peaks. By hand, using a flexible spatula, fold in slowly and carefully the sugar, then flour and chocolate, 1/4 cup at a time.
+Using an electric stand mixer, beat egg whites until you achieve stiff peaks. Set the mixer to maximum power and run it for about 30 seconds. You'll see bubbles first and then it looks foamy.
+
+By hand, using a flexible spatula, fold in slowly and carefully the sugar, then flour and chocolate, 1/4 cup at a time.
 
 Preheat oven to 300°. Generously grease parchment paper to line baking sheets. Drop a heaping spoonful with space for the cookies to spread out. Bake at 300° for 18 minutes. Cookies may turn a light brown on edges and bottoms.
 
