@@ -17,9 +17,9 @@
 # Instructions
 In a bowl, mix flour and baking powder.
 
-Melt the shortening in the microwave.
+In a separate bowl, using an electric mixer, beat egg yolks until thick and light. Pour in sugar slowly while continuing to beat. Pour in flour and baking powder mix 1/2 a cup at a time. Melt the shortening in the microwave. Mix in milk aniseed salt and melted shortening.
 
-In a separate bowl, using an electric mixer, beat egg yolks until thick and light. Pour in sugar slowly while continuing to beat. Pour in flour and baking powder mix 1/2 a cup at a time. Mix in milk aniseed salt and melted shortening.
+Continue mixing past the stage where there are small balls and until the whole mixture becomes one or two large balls.
 
 Grease baking sheets with crisco.
 
