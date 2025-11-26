@@ -1,4 +1,6 @@
-# Ingredients
+# Lebckuchen
+
+## Ingredients
 - 1 lb honey
 - 2 cups brown sugar
 - 1/2 cup water
@@ -10,12 +12,12 @@
 - 3/4 teaspoon ground nutmeg
 - 1 teaspoon cinnamon
 - 2 eggs
-# Other Needs
+## Other Needs
 - Wax paper
 - Extra flour
 - Crisco
 - Rolling pin
-# Instructions
+## Instructions
 Blanch almonds then grind using a food processor. Store in refrigerator until later.
 > Blanching can be done by boiling the almonds for 1 minute (not any longer!) and then shooting the nut out of the skin by squeezing your fingers
 
