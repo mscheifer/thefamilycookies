@@ -1,4 +1,6 @@
-# Ingredients
+# Lebckuchen
+
+## Ingredients
 - 1 lb honey
 - 2 cups brown sugar
 - 1/2 cup water
@@ -10,18 +12,18 @@
 - 3/4 teaspoon ground nutmeg
 - 1 teaspoon cinnamon
 - 2 eggs
-# Other Needs
+## Other Needs
 - Wax paper
 - Extra flour
 - Crisco
 - Rolling pin
-# Instructions
+## Instructions
 Blanch almonds then grind using a food processor. Store in refrigerator until later.
 > Blanching can be done by boiling the almonds for 1 minute (not any longer!) and then shooting the nut out of the skin by squeezing your fingers
 
 In a large stove pot combine brown sugar, honey, and water together and bring to a boil Let simmer for five minutes, stirring occasionally. You can use the water (possibly warmed up) to get the honey out of the jar.
 
-Let cooked mixture cool on stove. Once cooled, add flour, baking soda, and spices into the liquid mixture, using an electric mixer. In a separate bowl, beat eggs and add to mixture. Turn the mixer off and fold in the almonds and fruit by hand. Work dough into a rough loaf. Store loaf in bowl in refrigerator for 2-3 days.
+Let cooked mixture cool on stove. Once cooled, add flour, baking soda, and spices into the liquid mixture, using an electric mixer. The dough will become very thick so use a bread hook attachment. In a separate bowl, beat eggs and add to mixture. Turn the mixer off and fold in the almonds and fruit by hand. Work dough into a rough loaf. Store loaf in bowl in refrigerator for 2-3 days.
 
 Sprinkle flour on a board or clean surface. Take a handful of dough and roll out with a floured pin to 1/4 of an inch thickness. Cut into rectngles roughly 1 by 3 inches.
 

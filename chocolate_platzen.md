@@ -1,15 +1,17 @@
-# Ingredients
+# Chocolate Platzen
+
+## Ingredients
 - 1.5 cups of white sugar
 - 0.5 cups of all purpose flour
 - 0.5 lbs of bakers chocolate
 - 8 egg whites
 
-# Other needs
+## Other needs
 - Parchment paper
 - Wax paper
 - Crisco
 
-# Instructions
+## Instructions
 Place chocolate in freezer, when cold, break off pieces of chocolate and grate using a food processor or grinder. Cutting the squares with a knife first can make grinding easier. Store grated chocolate in the refrigerator until ready to use.
 
 Using an electric stand mixer, beat egg whites until you achieve stiff peaks. Set the mixer to maximum power and run it for about 30 seconds. You'll see bubbles first and then it looks foamy.

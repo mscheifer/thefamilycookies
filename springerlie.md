@@ -1,4 +1,6 @@
-# Ingredients
+# Springerlie
+
+## Ingredients
 - 5 egg yolks
 - 1 teaspoon aniseed
 - 2 teaspoons baking powder
@@ -8,13 +10,13 @@
 - 2 cups white sugar
 - 1/8 teaspoon salt
 
-# Other Needs
+## Other Needs
 - Extra flour
 - Extra crisco
 - Patterned rolling pin
 - Wax paper
 
-# Instructions
+## Instructions
 In a bowl, mix flour and baking powder.
 
 In a separate bowl, using an electric mixer, beat egg yolks until thick and light. Pour in sugar slowly while continuing to beat. Pour in flour and baking powder mix 1/2 a cup at a time. Melt the shortening in the microwave. Mix in milk aniseed salt and melted shortening.

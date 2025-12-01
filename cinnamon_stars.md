@@ -1,10 +1,12 @@
-# Ingredients
+# Cinnamon Stars
+
+## Ingredients
 - 6 egg whites
 - 2 cups of white sugar
 - 1 to 1.25 lbs unblanched almonds
 - 2 tablespoons of cinnamon
 
-# Other Needs
+## Other Needs
 - Parchment paper
 - Crisco
 - Extra flour
@@ -12,7 +14,7 @@
 - Star cookie cutter
 - Wax paper
 
-# Instructions
+## Instructions
 
 Grate almonds using a food processor and store in refrigerator until needed.
 
