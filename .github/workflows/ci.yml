@@ -15,8 +15,6 @@ jobs:
     steps:
       - uses: actions/checkout@v5
       - name: Check GitHub Actions
-        uses: docker://rhysd/actionlint:1.7.8
-        with:
-          args: -color
+        uses: reviewdog/action-actionlint@1.69.1
       - name: Check for typos
         uses: crate-ci/typos@v1.39.2
