@@ -17,4 +17,4 @@ jobs:
       - name: Check GitHub Actions
         uses: reviewdog/action-actionlint@v1.69.1
       - name: Check for typos
-        uses: crate-ci/typos@v1.40.0
+        uses: crate-ci/typos@v1.41.0
