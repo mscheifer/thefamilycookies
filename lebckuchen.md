@@ -27,6 +27,6 @@ Let cooked mixture cool on stove. Once cooled, add flour, baking soda, and spice
 
 Sprinkle flour on a board or clean surface. Take a handful of dough and roll out with a floured pin to 1/4 of an inch thickness. Cut into rectngles roughly 1 by 3 inches.
 
-Preheat oven to 300° F. Grease baking sheets. Place cookies on sheets and bake for 12 minutes.
+Preheat oven to 300° F. Line cookie sheets with parchment paper (greasing is not needed). Place cookies on sheets and bake for 12 minutes.
 
 Cool cookies on wire racks. Once cooled, place in a large crock in layers separated by wax paper.
